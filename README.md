@@ -51,7 +51,7 @@ Models are evaluated using:
 - Recall
 - F1-score
 
-## Results (Summary)
+## Results
 | Model               | Features           | Accuracy |
 | ------------------- | ------------------ | -------- |
 | Naive Bayes         | BoW                | ~0.996   |
